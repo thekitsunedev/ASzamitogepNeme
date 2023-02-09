@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://infojegyzet.hu/webszerkesztes/html/a_szamitogep_neme/alap.jpg);
+    color: #333;
+}
+h1, h2 {
+    text-align: center;
+}
+h2 {
+    margin-bottom: 5%;
+}
+hr {
+    border-top: 8px solid #555;
+    border-radius: 5px;
+    width: 90%;
+    margin-top: 5%;
+}
+hr.lower {
+    margin-top: 2%;
+}
+p {
+    margin-left: 5%;
+}
+p.inner {
+    margin-left: 10%;
+    margin-right: 10%
+}
+p.copyright {
+    text-align: right;
+    margin-right: 5%
+}
+li {
+    margin-left: 13%;
+    margin-right: 13%;
+}
+table {
+    text-align: left;
+}
+img {
+    scale: 30%
+}
