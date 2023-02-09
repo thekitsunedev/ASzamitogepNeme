@@ -12,7 +12,7 @@ hr {
     border-top: 8px solid #555;
     border-radius: 5px;
     width: 90%;
-    margin-top: 5%;
+    margin-top: 4%;
 }
 hr.lower {
     margin-top: 2%;
@@ -22,7 +22,6 @@ p {
 }
 p.inner {
     margin-left: 10%;
-    margin-right: 10%
 }
 p.copyright {
     text-align: right;
@@ -36,5 +35,9 @@ table {
     text-align: left;
 }
 img {
-    scale: 30%
+    height: 30%;
+    width: 30%;
+}
+table tr{
+    height: min-content;
 }
